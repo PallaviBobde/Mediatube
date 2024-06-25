@@ -2,11 +2,11 @@
 
 ![YouTube Clone App Logo](path/to/logo.png)
 
-Welcome to the **YouTube Clone App**! This app replicates the core functionalities of YouTube, allowing users to search and watch videos fetched from the YouTube API.
+Welcome to the **YouTube Dada App**! This app replicates the core functionalities of YouTube, allowing users to search and watch videos fetched from the YouTube API.
 
 ## 🚀 Description
 
-The YouTube Clone App is built to mimic the popular video streaming platform YouTube. It leverages Rapid API to fetch YouTube data and provides a sleek and responsive user interface. Explore the features, technologies used, and dive into the codebase.
+The YouTube Dada App is built to mimic the popular video streaming platform YouTube. It leverages Rapid API to fetch YouTube data and provides a sleek and responsive user interface. Explore the features, technologies used, and dive into the codebase.
 
 ## ✨ Features
 
