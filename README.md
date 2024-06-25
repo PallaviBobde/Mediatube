@@ -32,15 +32,13 @@ The YouTube Dada App is built to mimic the popular video streaming platform YouT
 
 ## 📞 URLs
 
-- **Repo**: [https://github.com/yourusername/youtube-clone](https://github.com/yourusername/youtube-clone)
-- **View**: [https://yourusername.github.io/youtube-clone/](https://youtube-dada.vercel.app/)
+- **Repo**: [https://github.com/PallaviBobde/youtube-dada](https://github.com/PallaviBobde/youtube-dada)
+- **View**: [https://youtube-dada.vercel.app/](https://youtube-dada.vercel.app/)
 
 ## 📞 Let's get in touch
 
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourname)
-- **GitHub**: [YourUsername](https://github.com/yourusername)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **Phone**: Your Phone Number
-- **Location**: Your Location
+- **LinkedIn**: [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
+- **GitHub**: [PallaviBobde](https://github.com/PallaviBobde)
+- **Email**: [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [PallaviBobde](https://github.com/PallaviBobde)
