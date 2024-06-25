@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube-dada/static/css/main.84aaabba.css",
+    "main.js": "/youtube-dada/static/js/main.2c6e4f1e.js",
+    "index.html": "/youtube-dada/index.html",
+    "main.84aaabba.css.map": "/youtube-dada/static/css/main.84aaabba.css.map",
+    "main.2c6e4f1e.js.map": "/youtube-dada/static/js/main.2c6e4f1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84aaabba.css",
+    "static/js/main.2c6e4f1e.js"
+  ]
+}
