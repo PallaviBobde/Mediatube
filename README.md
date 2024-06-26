@@ -1,6 +1,6 @@
 # 🌟 YouTube Dada 💼
 
-![YouTube Clone App Logo](path/to/logo.png)
+![YouTube Clone App Logo](https://github.com/PallaviBobde/photo-resources/blob/main/Screenshot%202024-06-25%20at%207.52.45%E2%80%AFPM.png?raw=true)
 
 Welcome to the **YouTube Dada App**! This app replicates the core functionalities of YouTube, allowing users to search and watch videos fetched from the YouTube API.
 
