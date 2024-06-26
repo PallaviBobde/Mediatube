@@ -1,4 +1,4 @@
-# 🌟 YouTube Dada 💼
+# 🌟 MediaTube 💼
 
 ![YouTube Clone App Logo](https://github.com/PallaviBobde/photo-resources/blob/main/Screenshot%202024-06-25%20at%207.52.45%E2%80%AFPM.png?raw=true)
 
